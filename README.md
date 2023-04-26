@@ -12,6 +12,7 @@ Group # 21479_8
 # Dataset
 This data was pulled from the US Energy Administration and joined together for an easier analysis. It is a collection of major factors that play into CO2 emissions, from the Production and Consumption of each type of major energy source for each country to its pollution rating each year. It also includes each countries GDP, Population, Energy intensity per capita (person), and Energy intensity per GDP (per person GDP). All the data spans all the way from the 1980's through 2019.
 
+![image](https://user-images.githubusercontent.com/129460719/234631598-4c837289-af16-4998-84dd-92a750690afc.png)
 
 
 # Question 1
@@ -20,7 +21,8 @@ People have employed several approaches to curbing CO2 emissions, ranging from p
 Is there a stronger correlation between CO2 emissions and GDP or CO2 emissions and population?
 
 # Question 1 Analysis and Results
-Screen Shot 2023-04-26 at 12 06 15 AM
+![image](https://user-images.githubusercontent.com/129460719/234631713-fe0c808c-d5b5-478e-af81-002f34201f5d.png)
+
 
 For the top two graphs, we examined the top five countries with the highest CO2 emissions overall (China, US, India, Russia, and Japan). In doing so, the data points are more visible and eliminate less significant countries that could possibly skew the data.
 
@@ -36,6 +38,7 @@ The Paris Climate Agreement is a global treaty that was adopted in 2015 by 196 c
 How effective has the Paris Climate Agreement been in reducing CO2 emissions?
 
 # Question 2 Analysis and Results
+![image](https://user-images.githubusercontent.com/129460719/234631796-e5ad5b2f-06fc-416c-b7cb-d7291d6354d1.png)
 
 
 Visualizing CO2 emissions worldwide, CO2 levels did decline in the two years after the agreement's inception from 2015 to 2017. However, CO2 emissions reached a record high after 2017 and from the dataset we can see they continue to increase through 2019. The International Energy Agency (IEA) accounted two-thirds of the global emissions increase to Asian countries, particularly China.
